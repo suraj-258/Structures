@@ -4,7 +4,7 @@ struct student {
     int roll;
     float marks;
 } s[2];
-
+//qwertyiop
 int main() {
     int i;
     printf("Enter information of students:\n");
